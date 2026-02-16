@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sachin Rathod | Data Scientist Portfolio</title>
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+            background-color: #f4f6f8;
+        }
+
+        header {
+            background-color: #0077b6;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        img {
+            border-radius: 50%;
+            margin-top: 10px;
+        }
+
+        section {
+            background: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        button {
+            background-color: #0077b6;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #023e8a;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Sachin Rathod</h1>
+    <p>Aspiring Data Scientist | Python | SQL | Machine Learning</p>
+    <img src="profile.jpg" width="150">
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>
+        I am an aspiring Data Scientist skilled in Python, SQL, Machine Learning, and Power BI.
+        I have worked on real-world datasets and built machine learning models.
+    </p>
+</section>
+
+<section>
+    <h2>Skills</h2>
+    <ul>
+        <li>Python</li>
+        <li>Machine Learning</li>
+        <li>SQL</li>
+        <li>Pandas</li>
+        <li>Power BI</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Projects</h2>
+    <h3>Wine Quality Prediction</h3>
+    <p>Built ML model using Python and Random Forest.</p>
+
+    <h3>Amazon Sales Analysis</h3>
+    <p>Analyzed sales data using Python, Pandas and visualization.</p>
+</section>
+
+<section>
+    <h2>Resume</h2>
+    <a href="Sachin_Rathod_Resume.pdf" target="_blank">
+        <button>Download Resume</button>
+    </a>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: sachinrathod.ds@gmail.com</p>
+    <p>GitHub: https://github.com/sr0070550-bit</p>
+    <p>LinkedIn: https://linkedin.com/in/sachinrathod</p>
+</section>
+
+</body>
+</html>
+
+
+
+
+
+
